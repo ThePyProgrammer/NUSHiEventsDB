@@ -1,9 +1,259 @@
 [
   {
-    "module": "CS4131",
-    "title": "CS Lab Task 1",
-    "date": "18/02/2021",
+    "title": "CNY Celebration",
+    "date": [
+      "11/02/2021 0930 - 1100"
+    ],
     "description": "",
     "info": ""
-  }
+  },
+  {
+    "title": "CNY Holidays",
+    "date": [
+      "12/02/2021 0000 - 2359",
+      "15/02/2021 0000 - 2359"
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "W@W Festival",
+    "date": [
+      "24/02/2021"
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Research Congress",
+    "date": [
+      "24/02/2021"
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Games Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Student Leaders' Investiture",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SSEF Judging Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Good Friday",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Speech Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Y5&6 Reading Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Labour Day Holiday",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Y1-4 Reading Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Hari Raya Puasa",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SJPO General Round",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Vesak Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Issuance of Progress Reports and PTM",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "GCE 'O'/'A' Level MTB Mid-Yr Exam",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SMO Junior/Senior Round I",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SMO Open Round I",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SMO Junior/Senior Round II",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SJPO Special Round",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Student Leaders' Summit",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SMO Open Round II",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "GCE 'O'/'A' Level MT LC Exam",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Hari Raya Haji",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "National Day Celebration",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Home Coming 2021",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "National Day Holiday",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "SDYC 2021",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "StAR Day Celebration",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Teacher's Day",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
+  {
+    "title": "Colourfusion VI",
+    "date": [
+      ""
+    ],
+    "description": "",
+    "info": ""
+  },
 ]
